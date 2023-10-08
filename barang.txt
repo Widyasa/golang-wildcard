@@ -1,0 +1,1 @@
+[{"Nama":"buku","Stok":12,"Harga":1000},{"Nama":"buku","Stok":10,"Harga":2000},{"Nama":"baju","Stok":12,"Harga":10000},{"Nama":"kemeja","Stok":10,"Harga":10000},{"Nama":"celana","Stok":12000,"Harga":5},{"Nama":"celana","Stok":200,"Harga":1000}]
