@@ -178,7 +178,7 @@ func runAplikasi() {
 		runAplikasi()
 	case "5": //apabila user memilih pilihan 5 maka akan dijalankan aksi keluarAplikasi
 		keluarAplikasi()
-	default: //apabila user memilih pilihan selain angka 1-5 maka akan dijalankan aksi keluarAplikasi
+	default: //apabila user memilih pilihan selain angka 1-5 maka pemilihan aplikasi akan selalu diulangi
 		fmt.Println("Pilihan tidak valid.")
 		runAplikasi()
 	}
